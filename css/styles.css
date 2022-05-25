@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background: rgb(3, 98, 46);
+    background: rgb(227, 138, 3);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: rgb(10, 3, 3);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
